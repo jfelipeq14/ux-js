@@ -1,0 +1,12 @@
+{
+  "name": "ux",
+  "version": "1.0.0",
+  "description": "El diseño de experiencia de usuario (UX) es el proceso que se encarga de optimizar el punto de encuentro entre usuarios y productos, como los sitios web y aplicaciones móviles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Quintero",
+  "license": "ISC"
+}
