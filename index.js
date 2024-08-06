@@ -28,11 +28,12 @@ window.addEventListener("DOMContentLoaded", () => {
           $form.mensaje.value !== ""
         ) {
           $text.innerText = "Completo";
+          $text.style.color = "green";
           setTimeout(() => {
             $text.innerText = "";
             $form.reset();
             $form.nombres.focus();
-          }, 2000);
+          }, 3000);
         }
       });
     }
